@@ -32,6 +32,6 @@ LIMIT 50;
 ```
 ## Repository Structure
 - Project Management: Project Brief and problem statement.
-- Scripts: SQL queries answering 15 business-driven questions.
-- Analysis: Power BI dashboard file (.pbix) and exported visuals.
+- Analysis: SQL queries answering 15 business-driven questions.
+- Visualizations: Power BI report file.
 - Report: Final presentation slides summarizing findings and recommendations.
